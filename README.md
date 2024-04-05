@@ -1,4 +1,4 @@
-# yolov8-and-supervison-for-traffic-management
+# yolov8 and supervison for traffic management
 
 ## Overview
 
