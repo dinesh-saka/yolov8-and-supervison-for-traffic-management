@@ -51,6 +51,11 @@ This project utilizes the YOLO (You Only Look Once) object detection model and t
 - Adjust the video input path and output path in the script according to your requirements.
 - Customize YOLO model settings or Supervision parameters as needed for specific use cases.
 
+## Results
+https://drive.google.com/drive/folders/19ZZGfuVCEUZNebutpaXCDRVnJKhD1L9V
+
+check above link for results.
+
 ## Credits
 
 This project utilizes the YOLOv8 model from Ultralytics and the Supervision library for video processing tasks.
